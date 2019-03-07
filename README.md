@@ -1,0 +1,1 @@
+Created by request for a reddit user on r/Discord_Bots. A simple bot that allows a user with a specific role to open and close a game. While the game is open, server members can join the game. Once the game is closed, all members that joined will be direct messaged to randomly assign them a role of either "Innocent" or "Traitor".
